@@ -1,1 +1,1 @@
-Đây là branch test_conflict.
+Đây là branch master.
